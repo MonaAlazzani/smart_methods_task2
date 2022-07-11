@@ -1,0 +1,18 @@
+Wisdom ESP32 algorithm
+
+Install IDE for the Arduino 
+Run IDE
+Go to IDE bar, choose File, then preferences
+Use "https://dl.espressif.com/dl/package_esp32_index.json" to put the package link to the esp32, then press on OK button
+Go to tools, choose Arduino panel, then panel manager
+Press on the installation process when the type screen appears
+Go to tools, then board, and then boards manage.
+Again go to tools, then Arduino panel, then ESP32 Arduino.
+Connect ESP32 to the computer using USB.
+Go to tools, then ESP32 Arduino, then WEMOS D1 MINI ESP32 controller.
+Go to tools, then port COM3, then COM3.
+Turn on lighting by clicking on the file, then examples, then basic, then blink. 
+Press an arrow tick that appears in the address bar on the left side of the upload process.
+The blue light will start to point.
+
+
